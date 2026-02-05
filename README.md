@@ -18,7 +18,7 @@ Professional Business Intelligence solution developed as a Software Engineer, fo
 - **Star Schema Architecture:** Optimized data model with Fact and Dimension tables for high performance.
 
 ## 📂 Repository Structure
-- `/dashboards`: Contains the `.pbix` source file for technical audit.
+- `/dashboard`: Contains the `.pbix` source file for technical audit.
 - `/docs`: Full technical documentation and project management screenshots (Jira).
 
 ## 👩‍💻 Author
